@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Warhammer Underworlds Deckbuilder</string>
+    <string name="new_warband">Create New Warband</string>
+    <string name="library">View Library</string>
+    <string name="objective_deck_title">Objective Deck</string>
+    <string name="power_deck_title">Power Deck</string>
+</resources>

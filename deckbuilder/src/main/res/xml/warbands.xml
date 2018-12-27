@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="warbands">
+        <warband
+            name="Steelheart's Champions"
+            released="true"
+            icon="steelhearts_champions">
+            <fighter
+                name="Severin Steelheart"
+                move="3"
+                defense="1/2"
+                defenseType="shield"
+                wounds="4"/>
+            <fighter
+                name="Obryn the Bold"
+                move="3"
+                defense="1/2"
+                defenseType="shield"
+                wounds="4"/>
+            <fighter
+                name="Angharad Brightshield"
+                move="3"
+                defense="1/2"
+                defenseType="shield"
+                wounds="4"/>
+        </warband>
+        <warband
+            name="Spiteclaw's Swarm"
+            released="true"
+            icon="spiteclaws_swarm">
+            <fighter
+                name="Skritch Spiteclaw"
+                move="5"
+                defense="1/2"
+                defenseType="dodge"
+                wounds="4"/>
+            <fighter
+                name="Krrk the Almost-Trusted"
+                move="5"
+                defense="1/2"
+                defenseType="shield"
+                wounds="3"/>
+            <fighter
+                name="Lurking Skaven"
+                move="5"
+                defense="2"
+                defenseType="dodge"
+                wounds="2"/>
+            <fighter
+                name="Hungering Skaven"
+                move="5"
+                defense="1/2"
+                defenseType="dodge"
+                wounds="2"/>
+            <fighter
+                name="Festering Skaven"
+                move="5"
+                defense="1/2"
+                defenseType="dodge"
+                wounds="2"/>
+        </warband>
+        <warband
+            name="Garrek's Reavers"
+            released="true"
+            icon="garreks_reavers">
+
+        </warband>
+        <warband
+            name="Sepulchral Guard"
+            released="true"
+            icon="sepulchral_guard">
+
+        </warband>
+        <warband
+            name="Ironskull's Boyz"
+            released="true"
+            icon="ironskulls_boyz">
+
+        </warband>
+        <warband
+            name="The Chosen Axes"
+            released="true"
+            icon="chosen_axes">
+
+        </warband>
+        <warband
+            name="Magore's Fiends"
+            released="true"
+            icon="magores_fiends">
+
+        </warband>
+        <warband
+            name="The Farstriders"
+            released="true"
+            icon="farstriders">
+
+        </warband>
+    </array>
+</resources>
